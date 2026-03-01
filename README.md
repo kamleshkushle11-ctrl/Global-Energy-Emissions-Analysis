@@ -1,1 +1,1 @@
-# Global-Energy-Emissions-Analysis-LINK
+# Global-Energy-Emissions-Analysis
